@@ -1,0 +1,44 @@
+ Universidad Tecnológica de Querétaro (UTEQ)
+
+Desde <https://www.enter.co/empresas/colombia-digital/innovacion-tecnologica-en-mexico-nace-un-laboratorio-de-iot-en-queretaro/> 
+
+Mioty Alliance es una comunidad con sede en Alemania que aspira a liderar el Internet de las Cosas Masivo (Massive IoT), proporcionando una solución de conectividad inalámbrica accesible, robusta y eficiente. Ofrece una plataforma ideal para desarrolladores, fabricantes de hardware, integradores de sistemas, empresas de servicios y clientes finales, construyendo una solución integral a lo largo de toda la cadena de valor del IoT, desde los puntos finales y estaciones base hasta las plataformas de IoT.
+
+Desde <https://www.enter.co/empresas/colombia-digital/innovacion-tecnologica-en-mexico-nace-un-laboratorio-de-iot-en-queretaro/> 
+
+
+Instalaciones preparadas para la realización de las pruebas de conformidad de protocolos para los distintos componentes de un sistema IoT.
+Los servicios ofrecidos en el mismo se orientan principalmente al sector de telecomunicaciones, con capacidades específicas para equipos con Radio 3G, 4G e IoT.
+
+Desde <https://www.tecnalia.com/infraestructuras/laboratorio-de-internet-de-las-cosas-iot> 
+
+
+En este laboratorio contamos con instalaciones preparadas para la realización de pruebas de emisión y recepción de protocolos de comunicación, como NB-IoT, LTE Cat.M, Wi-Sun, Zigbee, Bluetooth o WiFi.
+Además, somos Organismo Notificado respecto de la Directiva de RED, miembro de la alianza Wi-Sun y del cluster SECARTYS.
+Nuestras instalaciones incluyen instrumentos específicos para la comunicación con dispositivos IoT que utilicen los diferentes protocolos y una cámara semianecoica para ensayos acreditados, cuyas principales características son:
+• Medidas EMI a 3m.
+• Cumplimiento de la norma CISPR 16-1-4 (NSA).
+• Niveles de inmunidad para entornos residenciales e industriales.
+• Plataforma rotatoria de 2m de diámetro.
+• Rango de frecuencia comprendido entre 50 Hz y 6 GHz.
+Nuestros servicios permiten asegurar cumplimiento de los estándares, cumplimiento de requisitos de cliente final y cumplimiento del marcado CE según Directiva RED para Europa.
+
+Desde <https://www.tecnalia.com/infraestructuras/laboratorio-de-internet-de-las-cosas-iot> 
+
+
+
+
+La Unión Internacional de Telecomunicaciones es una de estas instituciones Que publico en el 2019 una arquitectura modelo para sistemas IoT (ITU, Internet Of Things and Smart cities and communities – Frameworks, architecture, and protocols. 06/19. Cap 7). Esta está compuesta de las siguientes capas:
+• Capa de aplicación: Este es el host del aplicativo IoT. 
+• Capa de soporte y servicios aplicaciones: ofrece servicios para apoyar las aplicaciones IoT. Pueden ser genéricas, como procesamiento y almacenamiento de datos, o más específicas, atienden las necesidades particulares de la aplicación. 
+• Capa de red: En esta capa se encuentran los controles de conectividad, como gestión de la autenticación, autorización, y contabilidad. También se incluye en esta capa el acceso al transporte de datos. XVI Título de la tesis o trabajo de investigación 
+• Capa de dispositivo: Incluye funcionalidades de bajo nivel como la comunicación directa con la red de datos, como funcionalidades de ahorro de energía y asignación de recursos. 
+https://repositorio.uniandes.edu.co/bitstream/handle/1992/53712/24716.pdf
+
+
+Este año, el gobierno de Querétaro anunció que invertirá más de 13 millones de pesos en el desarrollo de un laboratorio de Internet de las cosas en las instalaciones de Vórtice IT Clúster, con la finalidad de impulsar el desarrollo de esta tecnología en el estado.
+En este espacio, se dará formación a estudiantes sobre programas educativos para detectar problemas concretos en las empresas con soluciones creativas a través del Internet de las cosas.
+Actualmente, México cuenta con 12 laboratorios especializados en Internet de las cosas distribuidos en Baja California, Sonora, Jalisco, Nuevo León, Hidalgo, Puebla y Yucatán. 
+
+Desde <https://www.informabtl.com/mexico-tendra-otro-laboratorio-de-internet-de-las-cosas-iot/> 
+
