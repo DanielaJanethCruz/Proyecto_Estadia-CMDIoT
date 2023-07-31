@@ -1,1 +1,1 @@
-#Investigaciones divididas por semana.
+Investigaciones divididas por semana.
