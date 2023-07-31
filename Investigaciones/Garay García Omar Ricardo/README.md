@@ -1,4 +1,4 @@
-# Projecto Estadía
+# Proyecto Estadía
 
 ## Investigación de implementaciones de laboratorios de IoT
 En México, el estado de Querétaro se posiciona como un referente en tecnología al firmar un acuerdo con la Universidad Tecnológica de Querétaro (UTEQ) y Mioty Alliance Hub México, con el fin de establecer un Laboratorio de Internet de las Cosas Masivo.
